@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "83594d14ab1a638c",
@@ -137,13 +136,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "physics/mechanics/Vectors.mdx"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Vectors"
             }
           },
           {
-            "id": "563ab5889b325d55",
+            "id": "590c51898ab7ec84",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -171,6 +172,6 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70d6fad4dc549b38",
+  "active": "2569e7b8711c8ad6",
   "lastOpenFiles": []
 }
