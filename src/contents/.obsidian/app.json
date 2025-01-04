@@ -1,4 +1,6 @@
 {
   "vimMode": true,
-  "showInlineTitle": false
+  "showInlineTitle": true,
+  "attachmentFolderPath": "assets",
+  "showUnsupportedFiles": true
 }
