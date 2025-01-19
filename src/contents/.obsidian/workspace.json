@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "miscellaneous/Ampere's law.md",
+                "file": "maths/Vectors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ampere's law"
+              "title": "Vectors"
             }
           }
         ]
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 268.5,
+    "collapsed": true
   },
   "right": {
     "id": "83594d14ab1a638c",
@@ -164,12 +165,18 @@
   },
   "active": "0ca14f5697ac7742",
   "lastOpenFiles": [
-    "miscellaneous/Faraday's law.md",
-    "miscellaneous/Biot-savart's law.md",
-    "miscellaneous/Ampere's law.md",
-    "miscellaneous/Kirchhoff's law.md",
+    "maths/Vectors.md",
+    "chemistry/Bohr's atomic model.md",
     "maths/Vectors.mdx",
     "physics/electricity_and_magnetism/Electric_Charge.mdx",
+    "biology",
+    "miscellaneous/Ampere's law.md",
+    "chemistry",
+    "chem",
+    "chemistory",
+    "miscellaneous/Faraday's law.md",
+    "miscellaneous/Biot-savart's law.md",
+    "miscellaneous/Kirchhoff's law.md",
     "physics/electricity_and_magnetism/Electric_Charge.md",
     "assets",
     "maths",
