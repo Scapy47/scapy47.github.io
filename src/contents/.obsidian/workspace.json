@@ -11,10 +11,14 @@
             "id": "4cc7ff497ee28169",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "maths/Vectors.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Vectors"
             }
           }
         ]
@@ -36,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -73,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 268.5,
+    "collapsed": true
   },
   "right": {
     "id": "83594d14ab1a638c",
@@ -160,6 +166,7 @@
   },
   "active": "4cc7ff497ee28169",
   "lastOpenFiles": [
+    "miscellaneous/Kepler's laws.md",
     "miscellaneous/Uncertainty principle.md",
     "chemistry/Bohr's atomic model.md",
     "maths/Vectors.md",
