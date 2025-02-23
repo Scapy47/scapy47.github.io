@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c5793ec79b969588",
+        "id": "0197ed9bc399fc1d",
         "type": "tabs",
         "children": [
           {
-            "id": "4cc7ff497ee28169",
+            "id": "fb6897c56c0221c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,12 +164,13 @@
       "edit-mdx:New .mdx file": false
     }
   },
-  "active": "4cc7ff497ee28169",
+  "active": "fb6897c56c0221c1",
   "lastOpenFiles": [
+    "Everything is a Function.md",
+    "maths/Vectors.md",
     "miscellaneous/Kepler's laws.md",
     "miscellaneous/Uncertainty principle.md",
     "chemistry/Bohr's atomic model.md",
-    "maths/Vectors.md",
     "maths/Vectors.mdx",
     "physics/electricity_and_magnetism/Electric_Charge.mdx",
     "biology",
